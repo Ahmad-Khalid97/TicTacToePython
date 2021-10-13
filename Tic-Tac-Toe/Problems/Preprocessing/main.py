@@ -1,5 +1,0 @@
-ss = input()
-ss = ss.lower()
-ss = ss.strip(",.?!")
-ss = ss.replace("!", "")
-print(ss)
